@@ -6,8 +6,8 @@ public class Customer {
 	int no;
 	String name;
 	String bookingno;
-//	int indate;
-//	int outdate;
+	////	int indate;
+	////	int outdate;
 	int nod,type,ld,d;
 	boolean status;
 	
